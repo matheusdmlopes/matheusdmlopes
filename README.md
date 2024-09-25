@@ -21,6 +21,7 @@
     <li>Java</li>
     <li>Node.js</li>
     <li>SQL</li>
+    <li>Python</li>
   </ul>
   <br>
 
