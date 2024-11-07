@@ -9,19 +9,28 @@
   <h1>Olá 👋</h1>
   <p>Me chamo Matheus De Marco Lopes, estudei na Trybe e estou buscando aprimorar minhas capacidades na área de desenvolvimento de software.</p>
 
-  <h3>Front-end</h3>
+  <h3>Linguagens de Programação</h3>
   <ul>
     <li>JavaScript</li>
     <li>HTML</li>
     <li>CSS</li>
-    <li>React</li>
-  </ul>
-  <h3>Back-end</h3>
-  <ul>
-    <li>Java</li>
-    <li>Node.js</li>
-    <li>SQL</li>
     <li>Python</li>
+    <li>Java</li>
+    <li>Typescript</li>
+      <li>SQL</li>
+  </ul>
+  <h3>Tecnologias</h3>
+  <ul>
+    <li>React.js</li>
+    <li>Node.js</li>
+    <li>Spring</li>
+    <li>Express</li>
+      <li>MySQL</li>
+      <li>Sequelize</li>
+      <li>Docker</li>
+      <li>Git/GitHub</li>
+      <li>Linux</li>
+      <li>Bash</li>
   </ul>
   <br>
 
