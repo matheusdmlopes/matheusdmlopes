@@ -10,28 +10,10 @@
   <p>Me chamo Matheus De Marco Lopes, estudei na Trybe e estou buscando aprimorar minhas capacidades na área de desenvolvimento de software.</p>
 
   <h3>Linguagens de Programação</h3>
-  <ul>
-    <li>JavaScript</li>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>Python</li>
-    <li>Java</li>
-    <li>Typescript</li>
-      <li>SQL</li>
-  </ul>
+  <p>JavaScript, Python, Java, C, TypeScript, SQL, HTML, CSS</p>
   <h3>Tecnologias</h3>
-  <ul>
-    <li>React.js</li>
-    <li>Node.js</li>
-    <li>Spring</li>
-    <li>Express</li>
-      <li>MySQL</li>
-      <li>Sequelize</li>
-      <li>Docker</li>
-      <li>Git/GitHub</li>
-      <li>Linux</li>
-      <li>Bash</li>
-  </ul>
+  <p>React.js, Node.js, Spring Boot, Spring, Express.js, MySQL, Sequelize, Docker, Git/GitHub, Linux, Bash</p>
+
   <br>
 
 <a href="https://www.linkedin.com/in/matheusdemarcolopes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
