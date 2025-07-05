@@ -47,8 +47,6 @@ Olá! Me chamo Matheus De Marco Lopes, sou desenvolvedor web com formação pela
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusdmlopes&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Linguagens](https://github-stats-wheat-psi.vercel.app/api/top-langs?username=matheusdmlopes)
-
 ## Contato
 
 - **Email**: [matheusdemarcolopes@gmail.com](mailto:matheusdemarcolopes@gmail.com)
