@@ -1,15 +1,15 @@
 # Matheus De Marco Lopes
-## Desenvolvedor
+## Software Engineer | Full-Stack & GenAI Specialist
 
-Desenvolvedor full stack formado pela Trybe e cursando Análise e Desenvolvimento de Sistemas na UNIP. Trabalho com backend em **Python (FastAPI)** e **Node.js**, frontend em **React/Next.js** e integração de **IA generativa** em aplicações web.
+I am a Full-Stack Engineer driven by building high-impact, scalable software solutions. Combining rigorous training from Trybe with an ongoing degree in Analysis and Systems Development at UNIP, I specialize in engineering robust backends with **Python (FastAPI)** and **Node.js**, crafting dynamic frontends using **React/Next.js**, and seamlessly integrating **Generative AI** into production-ready web applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusdemarcolopes/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusdemarcolopes@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheusdmlopes)
 
-## Habilidades
+## Skills
 
-### Linguagens
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -34,14 +34,14 @@ Desenvolvedor full stack formado pela Trybe e cursando Análise e Desenvolviment
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-### Banco de Dados
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
-### DevOps e Cloud
+### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -52,20 +52,20 @@ Desenvolvedor full stack formado pela Trybe e cursando Análise e Desenvolviment
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## Projetos em destaque
+## Featured Projects
 
-### AI Validator - Validação de atividades com IA
-Sistema que automatiza a validação de atividades complementares universitárias, processando documentos e classificando-os via IA generativa (Gemini API). Arquitetura assíncrona em **FastAPI + Celery + Redis + PostgreSQL**, com logging estruturado, monitoramento (Sentry) e deploy em produção na Railway.
+### 🚀 AI Validator – AI-Powered Academic Auditing System
+A commercial-grade automation platform designed to streamline the validation of university extracurricular certificates. The system processes complex documentation and instantly classifies data using the **Gemini API**. Engineered on a highly resilient, asynchronous architecture using **FastAPI + Celery + Redis + PostgreSQL**, featuring structured logging, proactive monitoring (Sentry), and live production deployment on Railway.
 `Python` `FastAPI` `Celery` `Redis` `PostgreSQL` `Gemini API` `Railway`
 
-### TechSolve - gestão de chamados multiplataforma com IA
-Projeto acadêmico do desenvolvimento de um sistema de gestão de chamados com triagem automática por IA, distribuído em web (ASP.NET Core MVC), mobile nativo Android (Java) e desktop (WinForms), com API REST centralizada e deploy em Azure.
+### 🛠️ TechSolve – Multiplatform Ticket Management Engine
+An advanced cross-platform ticketing ecosystem featuring automated AI-driven triage. This project showcases a centralized REST API connecting three distinct clients: a web dashboard (ASP.NET Core MVC), a native mobile application (Android/Java), and a desktop application (WinForms). Fully deployed and managed on cloud infrastructure via Azure.
 `C#` `ASP.NET Core` `Java` `Android` `Azure`
 
-## Estatísticas do GitHub
+## GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusdmlopes&show_icons=true)](https://github.com/matheusdmlopes)
 
-## Contato
+## Connect with Me
 - **Email**: [matheusdemarcolopes@gmail.com](mailto:matheusdemarcolopes@gmail.com)
 - **LinkedIn**: [linkedin.com/in/matheusdemarcolopes](https://www.linkedin.com/in/matheusdemarcolopes/)
 - **GitHub**: [github.com/matheusdmlopes](https://github.com/matheusdmlopes)
