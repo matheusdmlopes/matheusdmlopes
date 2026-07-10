@@ -62,9 +62,6 @@ A commercial-grade automation platform designed to streamline the validation of 
 An advanced cross-platform ticketing ecosystem featuring automated AI-driven triage. This project showcases a centralized REST API connecting three distinct clients: a web dashboard (ASP.NET Core MVC), a native mobile application (Android/Java), and a desktop application (WinForms). Fully deployed and managed on cloud infrastructure via Azure.
 `C#` `ASP.NET Core` `Java` `Android` `Azure`
 
-## GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusdmlopes&show_icons=true)](https://github.com/matheusdmlopes)
-
 ## Connect with Me
 - **Email**: [matheusdemarcolopes@gmail.com](mailto:matheusdemarcolopes@gmail.com)
 - **LinkedIn**: [linkedin.com/in/matheusdemarcolopes](https://www.linkedin.com/in/matheusdemarcolopes/)
