@@ -1,7 +1,7 @@
 # Matheus De Marco Lopes
 ## Software Engineer | Full-Stack & GenAI Specialist
 
-I am a Full-Stack Engineer driven by building high-impact, scalable software solutions. Combining rigorous training from Trybe with an ongoing degree in Analysis and Systems Development at UNIP, I specialize in engineering robust backends with **Python (FastAPI)** and **Node.js**, crafting dynamic frontends using **React/Next.js**, and seamlessly integrating **Generative AI** into production-ready web applications.
+I am a Full-Stack Engineer driven by building high-impact, scalable software solutions. Combining rigorous training from Trybe with an finished degree in Analysis and Systems Development at UNIP, I specialize in engineering robust backends with **Python (FastAPI)** and **Node.js**, crafting dynamic frontends using **React/Next.js**, and seamlessly integrating **Generative AI** into production-ready web applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusdemarcolopes/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusdemarcolopes@gmail.com)
