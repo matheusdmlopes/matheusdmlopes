@@ -52,16 +52,6 @@ I am a Full-Stack Engineer driven by building high-impact, scalable software sol
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## Featured Projects
-
-### 🚀 AI Validator – AI-Powered Academic Auditing System
-A commercial-grade automation platform designed to streamline the validation of university extracurricular certificates. The system processes complex documentation and instantly classifies data using the **Gemini API**. Engineered on a highly resilient, asynchronous architecture using **FastAPI + Celery + Redis + PostgreSQL**, featuring structured logging, proactive monitoring (Sentry), and live production deployment on Railway.
-`Python` `FastAPI` `Celery` `Redis` `PostgreSQL` `Gemini API` `Railway`
-
-### 🛠️ TechSolve – Multiplatform Ticket Management Engine
-An advanced cross-platform ticketing ecosystem featuring automated AI-driven triage. This project showcases a centralized REST API connecting three distinct clients: a web dashboard (ASP.NET Core MVC), a native mobile application (Android/Java), and a desktop application (WinForms). Fully deployed and managed on cloud infrastructure via Azure.
-`C#` `ASP.NET Core` `Java` `Android` `Azure`
-
 ## Connect with Me
 - **Email**: [matheusdemarcolopes@gmail.com](mailto:matheusdemarcolopes@gmail.com)
 - **LinkedIn**: [linkedin.com/in/matheusdemarcolopes](https://www.linkedin.com/in/matheusdemarcolopes/)
